@@ -5,6 +5,8 @@
     "scope": "/",
     "start_url": "/",
     "name": "PWA - UPC",
+    "orientation":"portrait",
+    "splash_pages":null,
     "short_name": "UPC",
     "description": "Its a pwa with recreative reachs.",
     "icons": [

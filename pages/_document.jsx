@@ -6,6 +6,7 @@ export default function MyDocument(){
                 <link rel="manifest" href="/manifest.json" />
                 <link rel="apple-touch-icon" href="/icon.png"></link>
                 <meta name="theme-color" content="#e8432d" />
+                <title>Carnet - UPC</title>
             </Head>
             <body>
                 <Main/>
